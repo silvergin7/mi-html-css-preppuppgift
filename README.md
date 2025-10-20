@@ -1,6 +1,6 @@
-## mi-html-css-preppuppgift
+# mi-html-css-preppuppgift
 
-# Preppuppgift
+## Preppuppgift
 
 Jag sökte utbildningen eftersom jag hållit på med blockchain på egen hand de senaste åren och det kändes som en naturlig övergång att ta sig ann det mer "officiellt".
 
